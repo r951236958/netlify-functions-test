@@ -1,0 +1,5 @@
+import "./src/styles/global.scss"
+import "prismjs/themes/prism-okaidia.css"
+import "./src/styles/global.css"
+import "./src/styles/code.css"
+import "./src/styles/tailwind.css"
